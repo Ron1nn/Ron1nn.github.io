@@ -1,9 +1,12 @@
 ## Welcome to Ron1nn GitHub Pages
 Owned by Ronin B. Agapito
 
-You can use the [editor on GitHub](https://github.com/Ron1nn/Ron1nn.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Hello! I created this website to share my favorite things. Hope you enjoy it!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### FAVORITE GAME:
+
+## Genshin Impact
+https://www.google.com/search?q=genshin&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi71tH74pf2AhUxslYBHcBHAgkQ_AUoAXoECAIQAw&biw=1366&bih=657&dpr=1#imgrc=wD1t8LGDprO7_M
 
 ### Markdown
 
