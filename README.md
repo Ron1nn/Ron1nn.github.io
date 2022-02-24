@@ -1,16 +1,24 @@
 ## Welcome to Ron1nn GitHub Pages
 Owned by Ronin B. Agapito
 
-Hello! I created this website to share my favorite things. Hope you enjoy it!
+**Hello! I created this website to share my favorite things. Hope you enjoy it!**
 
-### **FAVORITE GAME:**
+## Favorite Game:
 
-## Genshin Impact
+**Genshin Impact**
+
 [Genshin Impact](https://genshin.hoyoverse.com) is a massively multiplayer online role-play game (MMORPG) which is an open-world game which can be played casually or for meta-purposes. This is the reason why it is one of the best-selling games right now and my most favorite game.
 
-![Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.epicgames.com%2Fstore%2Fen-US%2Fp%2Fgenshin-impact&psig=AOvVaw3YrtFUskzkkdyCxH7wj5IL&ust=1645773787506000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCODUu6Lnl_YCFQAAAAAdAAAAABAD)
+![genshinn](https://user-images.githubusercontent.com/99853548/155483483-4364aa40-2047-45a2-a531-b06abfb8f955.jpg)
 
-### Markdown
+## Favorite Food:
+
+**Pancit**
+
+When it comes to food, I _LOVE_ most of them. But there is that one dish which I always love to eat and never get tired of. It is [pancit](https://en.wikipedia.org/wiki/Pancit) because it has a unique taste that is my cup of tea and when I eat this, I will be reminded of my nostalgic memories.
+
+![pancit](https://user-images.githubusercontent.com/99853548/155484402-fc7274e6-a040-4867-968a-f1971bbefdc8.jpg)
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
