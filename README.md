@@ -23,7 +23,7 @@ When it comes to food, I _LOVE_ most of them. But there is that one dish which I
 
 **Kimi No Na Wa (Your Name)**
 
-In my opinion, Kimi No Na Wa is such an awesome movie, I will think about it even after you watch it. The concept, the song track, the animation all are mind blowing.
+In my opinion, [Kimi No Na Wa](https://en.wikipedia.org/wiki/Your_Name) is such an awesome movie, I will think about it even after you watch it. The concept, the song track, the animation all are mind blowing.
 
 ![kimi no na wa](https://user-images.githubusercontent.com/99853548/155487251-1d2a57c5-13dd-43ac-a962-119dda106bd5.jpg)
 
@@ -31,13 +31,14 @@ In my opinion, Kimi No Na Wa is such an awesome movie, I will think about it eve
 
 **I Can't Stop Me**
 
-I Can't Stop Me is a K-Pop song that I really love because of its unique and catchy tone and the lyrics has a deep meaning into our universal truth.
+[I Can't Stop Me](https://open.spotify.com/track/37ZtpRBkHcaq6hHy0X98zn?si=4334ff9a325c43c5) is a K-Pop song that I really love because of its unique and catchy tone and the lyrics has a deep meaning into our universal truth.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CM4CkVFmTds" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-That is all I have to share right now. Thank you!
 
 
-[Spotify](https://open.spotify.com/playlist/5yRNUaEzCxODndaCkYs3PH?si=a60febcf15c74c7a)
 
-Genshin UID: 819559799
+**That is all I have to share right now. Thank you!**
+
+
+819559799
