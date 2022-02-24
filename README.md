@@ -6,7 +6,9 @@ Hello! I created this website to share my favorite things. Hope you enjoy it!
 ### FAVORITE GAME:
 
 ## Genshin Impact
-https://www.google.com/search?q=genshin&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi71tH74pf2AhUxslYBHcBHAgkQ_AUoAXoECAIQAw&biw=1366&bih=657&dpr=1#imgrc=wD1t8LGDprO7_M
+[Genshin Impact](https://genshin.hoyoverse.com) is a massively multiplayer online role-play game (MMORPG) which is an open-world game which can be played casually or for meta-purposes. This is the reason why it is one of the best-selling games right now and my most favorite game.
+
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.epicgames.com%2Fstore%2Fen-US%2Fp%2Fgenshin-impact&psig=AOvVaw3YrtFUskzkkdyCxH7wj5IL&ust=1645773787506000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCODUu6Lnl_YCFQAAAAAdAAAAABAD
 
 ### Markdown
 
