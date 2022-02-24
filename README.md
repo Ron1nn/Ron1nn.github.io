@@ -19,33 +19,24 @@ When it comes to food, I _LOVE_ most of them. But there is that one dish which I
 
 ![pancit](https://user-images.githubusercontent.com/99853548/155484402-fc7274e6-a040-4867-968a-f1971bbefdc8.jpg)
 
+## Favorite Anime:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Kimi No Na Wa (Your Name)**
 
-```markdown
-Syntax highlighted code block
+In my opinion, Kimi No Na Wa is such an awesome movie, I will think about it even after you watch it. The concept, the song track, the animation all are mind blowing.
 
-# Header 1
-## Header 2
-### Header 3
+![kimi no na wa](https://user-images.githubusercontent.com/99853548/155487251-1d2a57c5-13dd-43ac-a962-119dda106bd5.jpg)
 
-- Bulleted
-- List
+## Favorite Song:
 
-1. Numbered
-2. List
+**I Can't Stop Me**
 
-**Bold** and _Italic_ and `Code` text
+I Can't Stop Me is a K-Pop song that I really love because of its unique and catchy tone and the lyrics has a deep meaning into our universal truth.
 
-[Link](url) and ![Image](src)
-```
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CM4CkVFmTds" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+That is all I have to share right now. Thank you!
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ron1nn/Ron1nn.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Spotify](https://open.spotify.com/playlist/5yRNUaEzCxODndaCkYs3PH?si=a60febcf15c74c7a)
+Genshin UID: 819559799
