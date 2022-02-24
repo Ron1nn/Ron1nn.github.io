@@ -41,4 +41,4 @@ In my opinion, [Kimi No Na Wa](https://en.wikipedia.org/wiki/Your_Name) is such 
 **That is all I have to share right now. Thank you!**
 
 
-819559799
+Genshin UID: 819559799
