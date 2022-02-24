@@ -3,12 +3,12 @@ Owned by Ronin B. Agapito
 
 Hello! I created this website to share my favorite things. Hope you enjoy it!
 
-### FAVORITE GAME:
+### **FAVORITE GAME:**
 
 ## Genshin Impact
 [Genshin Impact](https://genshin.hoyoverse.com) is a massively multiplayer online role-play game (MMORPG) which is an open-world game which can be played casually or for meta-purposes. This is the reason why it is one of the best-selling games right now and my most favorite game.
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.epicgames.com%2Fstore%2Fen-US%2Fp%2Fgenshin-impact&psig=AOvVaw3YrtFUskzkkdyCxH7wj5IL&ust=1645773787506000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCODUu6Lnl_YCFQAAAAAdAAAAABAD
+![Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.epicgames.com%2Fstore%2Fen-US%2Fp%2Fgenshin-impact&psig=AOvVaw3YrtFUskzkkdyCxH7wj5IL&ust=1645773787506000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCODUu6Lnl_YCFQAAAAAdAAAAABAD)
 
 ### Markdown
 
